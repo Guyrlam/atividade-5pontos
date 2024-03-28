@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Grupo:
+// Guyrlam Silva Duque
+// Juliano Ferrone Caetano Soares
+// Luis Filipe Resende de Oliveira
+// Gustavo Ferreira Costa
+
 typedef struct Node
 {
     int value;
